@@ -1,0 +1,35 @@
+
+header{
+    background-image: url("soup-4773370.jpg");
+    width: 100%;
+    background-size: cover;
+    height: 70vh;
+}
+.navbar{
+    flex-direction: column;
+}
+
+.service{
+   flex-direction: column;
+}
+
+.clients{
+    flex-direction: column;
+    align-items: center;
+}
+
+.contact{
+    text-align: center;
+}
+
+.description{
+    padding: 0px 70px;
+}
+
+.navbar ul{
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
